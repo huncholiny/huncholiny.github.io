@@ -1,0 +1,5 @@
+{
+  "name": "zqzai/bladewebsite",
+  "timeout": 10000,
+  "connector": false
+}
